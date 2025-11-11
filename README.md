@@ -1,4 +1,4 @@
-# 🤖 Gesture-Controlled Obstacle-Avoiding Vehicle for Disaster Recovery
+# Gesture-Controlled Obstacle-Avoiding Vehicle for Disaster Recovery
 
 A smart **IoT-based robotic rover** that can be controlled through **hand gestures** using motion sensors, while autonomously avoiding obstacles.  
 This project integrates **gesture sensing (MPU9255 IMU)**, **Bluetooth communication**, and **real-time obstacle detection (HC-SR04)** into a **low-cost embedded system** for disaster recovery and search-and-rescue scenarios.
