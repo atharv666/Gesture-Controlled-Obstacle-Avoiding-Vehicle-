@@ -93,12 +93,12 @@ The complete architecture integrates sensing, communication, and control units f
 
 | View | Image |
 |------|--------|
-| **Prototype (Full Setup)** | <img src="images/prototype_full.png" width="80%"> |
-| **Front View** | <img src="images/vehicle_front.png" width="60%"> |
-| **Side View** | <img src="images/vehicle_side.png" width="60%"> |
-| **Back View** | <img src="images/vehicle_back.png" width="60%"> |
-| **Gesture Controller - Front View** | <img src="images/controller_front.png" width="60%"> |
-| **Gesture Controller - Side View** | <img src="images/controller_side.png" width="60%"> |
+| **Prototype (Full Setup)** | <img src="images/prototype_full.jpg" width="80%"> |
+| **Front View** | <img src="images/vehicle_front.jpg" width="60%"> |
+| **Side View** | <img src="images/vehicle_side.jpg" width="60%"> |
+| **Back View** | <img src="images/vehicle_back.jpg" width="60%"> |
+| **Gesture Controller - Front View** | <img src="images/controller_front.jpg" width="60%"> |
+| **Gesture Controller - Side View** | <img src="images/controller_side.jpg" width="60%"> |
 
 ---
 
